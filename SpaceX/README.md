@@ -1,7 +1,7 @@
 # SpaceX
 
 <p align="center">
-  <img src="https://www.metri-tech.com/wp-content/uploads/2017/01/spacex-logo-300x166.jpg?raw=true" width="100%"/>
+  <img src="http://thetechnews.com/wp-content/uploads/2017/06/spacex-logo-wallpaper-59810-61599-hd-wallpapers.jpg?raw=true" width="100%" height="50%"/>
 </p>
 
 
